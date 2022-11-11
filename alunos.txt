@@ -1,4 +1,4 @@
 Lista de Alunos presentes no Minicurso de Git e Github da UFAPE
 
-Nome: 
-Cidade: 
+Nome: Marcos Vinícius Cavalcante Oliveira
+Cidade: Bom Conselho - PE
